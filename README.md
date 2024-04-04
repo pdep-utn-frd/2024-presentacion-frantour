@@ -1,10 +1,5 @@
-# presentacion-
+# Presentation ;)
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+-Hola mi nombre es Francisco Bergamasco, tengo 25 años
+-Trabaje de varias cosas en mi vida, pero decidi inclinarme por la rama informatica ya que es algo que siempre me gusto y tambien es el presente/futuro. Saludos a todos!
 
-Ya saben usar git!
